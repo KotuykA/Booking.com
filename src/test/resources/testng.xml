@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="booking">
+    <test verbose="1" name="Luxoft">
+        <packages>
+            <package name="com.booking.Sc1LuxoftTest"/>
+            <package name="com.booking.Sc2LuxoftTest"/>
+        </packages>
+    </test>
+</suite>
